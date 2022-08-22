@@ -2,7 +2,7 @@
 
 | TASK  | SCRIPT TYPE | TYPE | DESCRIPTION | LEARNING SOURCES
 | ------------- | ------------- | ------------- | ------- |------- |
-| Build Management | Shell | Maven/Gradle/Npm Build Script | Custom Shell script to build, package application using mavne/gradle/npm or any packaging tool
+| Build Management | Shell | Maven/Gradle/Npm Build Script | Custom Shell script to build, package application using maven/gradle/npm or any packaging tool
 | Deployment | Shell/Ansible | Application Deployment | Shell script or Ansible playbook for web/ui deployment into web servers
 | Linux Process Management | Shell | Querying Process State | Shell scripts are written to check/update process state
 | | | Checking process id | Check Process ID to kill or terminate applications
